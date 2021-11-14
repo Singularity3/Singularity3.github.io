@@ -10,7 +10,7 @@ title:            Chris Koski
 tagline:          'Project Site'
 description:      'A site to catalog my projects and such. Kinda like a portfolio. Built on Hyde, which is built on Poole, which is built on Jekyll.'
 url:              https://singularity-3.github.io
-baseurl:          /
+baseurl:          /singularity-3.github.io
 
 author:
   name:           'Chris Koski'
