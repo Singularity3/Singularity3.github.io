@@ -1,0 +1,22 @@
+I"�<p>This page is for my image manipulation projects! I’ll include examples of the results…over on the <a href="/artwork">Artwork</a> page. More importantly, I’m including the repo of all of the Processing sketches I used to make them!</p>
+
+<p>These will require <a href="https://processing.org/">Processing</a> to run. Many of the sketches were written in Processing 3.x, and while I assume that they should work fine in Processing 4.x, there’s a good chance I haven’t tested them.</p>
+
+<h2 id="processing-sketch-repository"><a href="https://github.com/Singularity3/processing-sketches">Processing Sketch Repository</a></h2>
+
+<h3 id="image-manipulation">Image Manipulation</h3>
+
+<p>The Image Manipulation directory contains all sketches related to, well, image manipulation. Instructions for use can be found in the readme inside the directory (except for Traceglitch, for reasons discussed below).</p>
+
+<p>The Autoglitch series all directly mess with the provided images. They’re mostly pretty sweet, but I might start with Autoglitch B! (Autoglitch A is notably absent, due to B being a direct upgrade)</p>
+
+<p>Faceflow and Flowover are designed for use with more fun, colorful images, so instead of my usual testing plus sign, I’ve included the logo for my Pokemon Draft League team.</p>
+
+<h3 id="simulations">Simulations</h3>
+
+<p>The Simulations directory contains a few simulations I made in Processing!</p>
+
+<p>These are for fun, and I’d love for you to try them! Instructions for use can be found in the readme inside the directory.</p>
+
+<p>I think all of these are pretty cool, but if you’d like a place to start, I’d maybe run Genfield.</p>
+:ET

@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+  {% include head.html %}
+
+  <body>
+
+    {% include sidebar.html %}
+
+    <div class="content container">
+      <div class="gallery">
+        <h1 class="page-title">{{ page.title }}</h1>
+            {{ content }}
+            {% include image-gallery.html folder="/album" %}
+        </div>
+
+    </div>
+
+  </body>
+</html>
+
+
