@@ -3,28 +3,10 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+Hello! I'm Chris and/or Teal, a hobbyist game designer, fledgling musician, and professional code enthusiast. I love the weirder side of art and programming, and I'd argue that they overlap a great deal!
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+I'm committed to open-source design, and as such my toolkit is itself predominantly open source! My favorite game engine is [Godot](https://godotengine.org/), a wonderful, feature-rich alternative to Unity that (in my opinion) has much more intuitive structure.
 
-There are currently two themes built on Poole:
+[Processing](https://processing.org/) is my go-to language for generative art and simulation projects, and my favorite language to teach. [Python](https://www.python.org/) is also pretty cool for data and machine learning stuff.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+This site is built on [Hyde](https://hyde.getpoole.com/), which is built on [Poole](https://getpoole.com/), which is built on [Jekyll](https://jekyllrb.com/). Tech stacks are pretty wild these days.
