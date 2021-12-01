@@ -1,4 +1,4 @@
-I"�<p>This page is for some of the cooler games I’ve made.</p>
+I"�<p>This page is for some of the cooler games I’ve made.</p>
 
 <p>I don’t tend to post ongoing projects anywhere, as I find that talking about them makes them harder to work on. However, I am working on a few, and bits of them might have snuck onto the <a href="/artwork">Artwork</a> page…</p>
 
@@ -6,7 +6,7 @@
 
 <p>A game about doin’ crimes through some late 80s terminals.</p>
 
-<p>This is probably the biggest game I’ve made so far, and that’s mostly because I decided to write an engine instead of using a perfectly good one someone else had made already. Admittedly, I didn’t know about Godot at the time, I’m not the biggest fan of Unity, and Unreal seemed…overkill. So I grabbed a framework and set out to try and make Lua into an object-oriented language.</p>
+<p>This is probably the most work I’ve put into a game so far, and that’s mostly because I decided to write an engine instead of using a perfectly good one someone else had made already. Admittedly, I didn’t know about Godot at the time, I’m not the biggest fan of Unity, and Unreal seemed…overkill. So I grabbed a framework and set out to try and make Lua do object-oriented things.</p>
 
 <p>I’d recommend anyone who is interested in the technical side of making games to try creating an engine at least once. Just maybe don’t do it when you’re under time pressure.</p>
 
@@ -22,7 +22,7 @@
 
 <p>Uses some leftover music I had from 4ork.</p>
 
-<h2 id="welcome-to-bennys"><a href="#">Welcome to Benny’s</a></h2>
+<h2 id="welcome-to-bennys"><a href="/public/wtb">Welcome to Benny’s</a></h2>
 
 <p>A little game about trying to start a pizza franchise on an alien planet. Written in raw JS, for no real reason. What’s CSS?</p>
 

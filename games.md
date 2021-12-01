@@ -27,7 +27,7 @@ Despite being made in a few hours, my playtesters got very competitive over who 
 
 Uses some leftover music I had from 4ork.
 
-## [Welcome to Benny's](#)
+## [Welcome to Benny's](/public/wtb)
 
 A little game about trying to start a pizza franchise on an alien planet. Written in raw JS, for no real reason. What's CSS?
 
@@ -41,4 +41,4 @@ Probably the most fun game I've made. Unfortunately, this one requires hosting o
 
 However, if you'd like to host it yourself, go for it! You'll need to install sockets.io and the p5.js libraries onto the server as well.
 
-I'll probably get another server up and running one of these days, but in the meantime, [here's a video of the game in action.]() This was my first time working with netcode for a game, and while it has some unfortunate failings, I did manage to implement functional rollback netcode, which at least puts me above the Street Fighter 5 devs.
+I'll probably get another server up and running one of these days, but in the meantime, [here's a video of the game in action.](https://www.youtube.com/watch?v=4mEH2Kqu-N8) This was my first time working with netcode for a game, and while it has some unfortunate failings, I did manage to implement functional rollback netcode, which at least puts me above the Street Fighter 5 devs.
