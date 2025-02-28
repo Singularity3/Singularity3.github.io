@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-Hello! I'm Chris and/or Teal, a hobbyist game designer, fledgling musician, and professional code enthusiast. I love the weirder side of art and programming, and I'd argue that they overlap a great deal!
+Hello! I'm Teal, a hobbyist game designer, fledgling musician, and professional code enthusiast. I love the weirder side of art and programming, and I'd argue that they overlap a great deal!
 
 I'm committed to open-source design, and as such my toolkit is itself predominantly open source! My favorite game engine is [Godot](https://godotengine.org/), a wonderful, feature-rich alternative to Unity that (in my opinion) has much more intuitive structure.
 
